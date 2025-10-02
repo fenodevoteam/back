@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back\\back.csproj": {}
+    "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back\\back.csproj": {
+    "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back\\back.csproj",
+        "projectUniqueName": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back.csproj",
         "projectName": "back",
-        "projectPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back\\back.csproj",
+        "projectPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back.csproj",
         "packagesPath": "C:\\Users\\miharifeno.andrianar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\back\\obj\\",
+        "outputPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\auth\\back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
