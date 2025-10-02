@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, Feno test !
+- script: echo Hello, Feno test fenofenoS!
   displayName: 'Run a one-line script'
 
 - script: |
